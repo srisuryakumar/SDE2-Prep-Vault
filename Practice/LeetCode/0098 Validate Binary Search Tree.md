@@ -1,0 +1,33 @@
+---
+type: leetcode-problem
+leetcode_id: 98
+title: Validate Binary Search Tree
+difficulty: Medium
+patterns:
+  - "[[Tree DFS]]"
+companies: []
+status: not-started
+first_solved_date:
+last_reviewed:
+review_count: 0
+next_review_due:
+avg_time_min:
+tags: [leetcode]
+---
+# 0098 Validate Binary Search Tree
+
+## Problem Statement
+
+## Hint
+
+## Approach
+
+## Complexity
+
+## Code
+
+## Revisit Log
+| Day | Context | Time Taken | Notes |
+| --- | --- | --- | --- |
+| [[Day 020]] | First attempt — DFS with boundaries | | |
+| [[Day 101]] | Warm-up revision (Week 15) | | |

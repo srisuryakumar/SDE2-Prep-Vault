@@ -1,0 +1,35 @@
+---
+type: leetcode-problem
+leetcode_id: 212
+title: Word Search II
+difficulty: Hard
+patterns:
+  - "[[Trie]]"
+  - "[[Backtracking]]"
+companies: []
+status: not-started
+first_solved_date:
+last_reviewed:
+review_count: 0
+next_review_due:
+avg_time_min:
+tags: [leetcode]
+---
+# 0212 Word Search II
+
+## Problem Statement
+
+## Hint
+
+## Approach
+
+## Complexity
+
+## Code
+
+## Revisit Log
+| Day | Context | Time Taken | Notes |
+| --- | --- | --- | --- |
+| [[Day 038]] | First attempt — Trie + Matrix DFS Backtracking | | |
+| [[Day 076]] | Revision (Week 11) — target 25 min | | |
+| [[Day 108]] | Warm-up revision (Week 16) | | |
