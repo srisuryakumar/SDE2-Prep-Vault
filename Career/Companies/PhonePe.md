@@ -12,4 +12,6 @@ tags: [company, tier-a]
 - **Known System Design:** UPI payment system, Wallet system, Real-time fraud detection.
 - **Behavioral Values:** "Do the right thing, take ownership, build for scale".
 - **Engineers to Connect:** Search `Software Engineer PhonePe "Spring Boot"`.
-- **Preparation Notes:** Prepare heavily for the Machine Coding round. Practice writing LLD systems in 90 minutes that compile and run.
+- **Preparation Notes:** Review HBase for time-series data. Strong focus on LLD for the machine coding round.
+- **Activation:** [[72-Hour Protocols/PhonePe|PhonePe 72-Hour Activation Protocol]]
+

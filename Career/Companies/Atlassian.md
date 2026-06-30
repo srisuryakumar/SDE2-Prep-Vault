@@ -13,3 +13,5 @@ tags: [company, tier-a]
 - **Behavioral Values:** "Open company, no bullshit", "Play, as a team".
 - **Engineers to Connect:** Search `Backend Engineer Atlassian Bengaluru`.
 - **Preparation Notes:** Values round is critical. Do not skip the "Open company, no bullshit" behavioral mapping.
+- **Activation:** [[72-Hour Protocols/Atlassian|Atlassian 72-Hour Activation Protocol]]
+

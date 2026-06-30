@@ -13,3 +13,5 @@ tags: [company, tier-b]
 - **Behavioral Values:** "High trust, high performance".
 - **Engineers to Connect:** Search `Backend Engineer CRED Bengaluru`.
 - **Preparation Notes:** Deep dive into Redis sorted sets for leaderboards and gamification engines.
+- **Activation:** [[72-Hour Protocols/CRED|CRED 72-Hour Activation Protocol]]
+

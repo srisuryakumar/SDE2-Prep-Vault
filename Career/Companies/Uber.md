@@ -12,4 +12,6 @@ tags: [company, tier-a]
 - **Known System Design:** Location tracking service, Surge pricing engine, Dispatcher.
 - **Behavioral Values:** "Go get it", "See the forest and the trees".
 - **Engineers to Connect:** Search `Software Engineer II Uber Hyderabad/Bengaluru`.
-- **Preparation Notes:** Study Quadtrees and Redis Geo features extensively.
+- **Preparation Notes:** Master QuadTrees and Google S2 geometry. Deep dive into distributed locks for ride-matching.
+- **Activation:** [[72-Hour Protocols/Uber|Uber 72-Hour Activation Protocol]]
+

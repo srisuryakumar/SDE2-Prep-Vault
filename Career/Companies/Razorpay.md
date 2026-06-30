@@ -13,3 +13,5 @@ tags: [company, tier-a]
 - **Behavioral Values:** "Transparency, Ownership, Customer First".
 - **Engineers to Connect:** Search LinkedIn for `Backend Engineer Razorpay "Java"`.
 - **Preparation Notes:** Deep dive into exactly-once message processing in Kafka and DB transaction isolation levels.
+- **Activation:** [[72-Hour Protocols/Razorpay|Razorpay 72-Hour Activation Protocol]]
+

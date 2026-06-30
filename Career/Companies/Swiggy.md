@@ -12,4 +12,6 @@ tags: [company, tier-b]
 - **Known System Design:** Food delivery tracking, Restaurant discovery, Cart management.
 - **Behavioral Values:** "Customer first", "Stand up and disagree".
 - **Engineers to Connect:** Search `Software Development Engineer Swiggy`.
-- **Preparation Notes:** Study Cassandra data modeling and Geohashing for location searches.
+- **Preparation Notes:** Study geohashing, quadtrees, and real-time pub/sub delivery tracking systems.
+- **Activation:** [[72-Hour Protocols/Swiggy|Swiggy 72-Hour Activation Protocol]]
+

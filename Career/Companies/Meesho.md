@@ -13,3 +13,5 @@ tags: [company, tier-b]
 - **Behavioral Values:** "Speed over perfection, User First".
 - **Engineers to Connect:** Search `SDE 2 Meesho "Backend"`.
 - **Preparation Notes:** Review the E-Commerce architecture. Know how to prevent overselling inventory using Redis Lua scripts.
+- **Activation:** [[72-Hour Protocols/Meesho|Meesho 72-Hour Activation Protocol]]
+

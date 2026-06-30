@@ -13,3 +13,5 @@ tags: [company, tier-b]
 - **Behavioral Values:** "Customer obsession", "Simplicity".
 - **Engineers to Connect:** Search `SDE-2 Groww Java`.
 - **Preparation Notes:** Understand ACID properties intimately. Know how to process real-time market streams using Kafka.
+- **Activation:** [[72-Hour Protocols/Groww|Groww 72-Hour Activation Protocol]]
+

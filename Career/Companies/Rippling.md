@@ -12,4 +12,6 @@ tags: [company, tier-a]
 - **Known System Design:** Workflow engine, Audit logging system, RBAC system.
 - **Behavioral Values:** "Push the limits", "Hard work".
 - **Engineers to Connect:** Search `Software Engineer Rippling Bengaluru`.
-- **Preparation Notes:** Focus on API design, data modeling, and handling complex business logic over pure algorithmic puzzles.
+- **Preparation Notes:** Heavy focus on LLD. Practice writing clean, extensible object-oriented code under time pressure.
+- **Activation:** [[72-Hour Protocols/Rippling|Rippling 72-Hour Activation Protocol]]
+

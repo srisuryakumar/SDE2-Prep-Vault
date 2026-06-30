@@ -13,3 +13,5 @@ tags: [company, tier-b]
 - **Behavioral Values:** 16 Leadership Principles (LPs).
 - **Engineers to Connect:** Search `SDE II Amazon India "AWS"`.
 - **Preparation Notes:** STAR method is mandatory. Every answer must tie back to an LP.
+- **Activation:** [[72-Hour Protocols/Amazon|Amazon 72-Hour Activation Protocol]]
+
