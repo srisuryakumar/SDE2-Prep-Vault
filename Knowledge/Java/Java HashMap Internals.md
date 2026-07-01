@@ -6,7 +6,7 @@ source_chapter: "Chapter 5 — The Collections Framework"
 status: to-study
 interview_frequency: high
 introduced_day: 
-related_concepts: []
+related_concepts: ["[[HashMap and Frequency Counting]]", ]
 tags: [java, collections, hashmap]
 ---
 
@@ -33,3 +33,6 @@ When the number of entries exceeds the **load factor threshold** (default `0.75 
 - The capacity is doubled (e.g., 16 → 32).
 - Every single entry is re-hashed and moved to its new bucket.
 - This is an $O(n)$ operation, but it happens infrequently, leading to amortized $O(1)$ insertions.
+
+## Related Concepts
+- See also [[HashMap and Frequency Counting]] for the algorithmic applications of frequency counting.

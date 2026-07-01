@@ -6,7 +6,7 @@ source_chapter: "Chapter 2 — Database Internals"
 status: to-study
 interview_frequency: high
 introduced_day: 
-related_concepts: []
+related_concepts: ["[[Binary Search Tree Properties]]", ]
 tags: [database, internals, index, b-tree]
 ---
 
@@ -38,3 +38,6 @@ Use `EXPLAIN ANALYZE` to see actual execution metrics, not just estimates.
 - **Index Scan:** Uses B-tree, then looks up the row in the heap.
 - **Index Only Scan:** Fastest possible scan, no heap access.
 - **Bitmap Index Scan:** Batches heap reads to reduce random I/O.
+
+## Related Concepts
+- See also [[Binary Search Tree Properties]] for binary search trees, since B-Trees are a generalization.

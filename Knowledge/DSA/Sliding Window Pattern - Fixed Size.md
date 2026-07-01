@@ -6,7 +6,7 @@ source_chapter: "Chapter 2 — Arrays and Strings"
 status: to-study
 interview_frequency: high
 introduced_day: 
-related_concepts: []
+related_concepts: ["[[Rate Limiting Algorithms]]", ]
 tags: [dsa, pattern, sliding-window]
 ---
 
@@ -45,3 +45,6 @@ public static int slidingWindowFixed(int[] arr, int k) {
 ## Classic Problems
 - **Maximum Sum Subarray of Size K:** Direct template application.
 - **Average of Subarrays of Size K:** Same as maximum sum, just divide the result by $k$.
+
+## Related Concepts
+- See also [[Rate Limiting Algorithms]] for the rate limiter implementation behind token bucket.

@@ -6,7 +6,7 @@ source_chapter: "Chapter 5 — NoSQL Fundamentals"
 status: to-study
 interview_frequency: high
 introduced_day: 
-related_concepts: []
+related_concepts: ["[[MongoDB (Document Store)]]", "[[Cassandra (Wide-Column Store)]]", ]
 tags: [database, distributed-systems, cap-theorem]
 ---
 
@@ -33,3 +33,7 @@ Because networks ALWAYS fail, you must always have Partition Tolerance (P). So t
 > "You're designing an order history service that must handle 500,000 writes/second globally. Which database and why?"
 
 **Answer:** Cassandra. Order history is append-heavy (new orders only). Queries are always by user_id (the natural partition key). We can tolerate eventual consistency (AP) — a user seeing their order appear 200ms after placing it is perfectly fine. Cassandra's AP model gives us availability during network partitions and linear write scalability. PostgreSQL could not absorb 500K writes/sec on a single primary.
+
+## Related Concepts
+- See also [[MongoDB (Document Store)]] for the canonical CP example.
+- See also [[Cassandra (Wide-Column Store)]] for the canonical AP example.

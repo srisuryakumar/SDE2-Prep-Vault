@@ -6,7 +6,7 @@ source_chapter: "Chapter 2 — Arrays and Strings"
 status: to-study
 interview_frequency: high
 introduced_day: 
-related_concepts: []
+related_concepts: ["[[Rate Limiting Algorithms]]", ]
 tags: [dsa, pattern, sliding-window]
 ---
 
@@ -49,3 +49,6 @@ Each element is added to the window once (when `right` passes it) and removed at
 - **Longest Substring Without Repeating Characters:** Track `lastSeen` index in a HashMap. If `s[right]` was seen inside the current window, jump `left` to `lastSeen[c] + 1`.
 - **Minimum Window Substring:** Use a `have` and `need` map/count. Expand until `have == required`, record length, then shrink to minimize.
 - **Longest Repeating Character Replacement:** Condition is `(window length) - maxFreq <= k`. If violated, advance `left`. (For this specific problem, an `if` instead of `while` works to shrink because we only care about finding a *larger* window, but `while` is the general pattern).
+
+## Related Concepts
+- See also [[Rate Limiting Algorithms]] for the rate limiter implementation behind token bucket.

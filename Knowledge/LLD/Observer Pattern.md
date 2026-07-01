@@ -6,7 +6,7 @@ source_chapter: "Chapter 4 — Behavioral Patterns"
 status: to-study
 interview_frequency: high
 introduced_day: 
-related_concepts: []
+related_concepts: ["[[Kafka Consumer Group Rebalancing]]", ]
 tags: [lld, design-patterns, behavioral]
 ---
 
@@ -26,3 +26,6 @@ Use an Event Bus or Publisher-Subscriber model.
 
 **Benefits:**
 - Perfect adherence to Open-Closed Principle: You can add 10 new subscribers without touching the publisher's code once.
+
+## Related Concepts
+- See also [[Kafka Consumer Group Rebalancing]] for how Kafka's consumer model is the distributed implementation of the Observer pattern.
