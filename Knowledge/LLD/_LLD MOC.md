@@ -12,4 +12,6 @@ tags: [moc, lld]
 [Add links to Creational, Structural, and Behavioral patterns here]
 
 ## Applied LLD Scenarios
-[Add links to applied design problems here]
+- [[Logger System]]
+- [[In-Process Pub-Sub Event Bus]]
+- [[Generic Cache System Design]]
