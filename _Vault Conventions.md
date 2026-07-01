@@ -1,3 +1,85 @@
+## Full Folder Tree
+
+/ (vault root)
+├── .obsidian/
+├── .gitignore
+├── README.md
+├── _Vault Conventions.md
+├── _Migration Verification Report.md
+├── Dashboard/
+│   ├── Home.md
+│   ├── Progress Overview.md
+│   ├── Application Tracker.md
+│   └── Revision Due.md
+├── Daily Journal/
+│   ├── Day 000.md
+│   ├── Day 001.md ... Day 120.md
+│   └── Weekly Reviews/
+│       └── Week 01 Review.md ... Week 17 Review.md
+├── Knowledge/
+│   ├── _Knowledge MOC.md
+│   ├── CS Foundations/
+│   ├── Java/
+│   ├── DSA/
+│   ├── Databases/
+│   ├── Redis/
+│   ├── Spring Boot/
+│   ├── Kubernetes/
+│   ├── LLD/
+│   └── System Design/
+├── Practice/
+│   ├── LeetCode/
+│   │   ├── _LeetCode MOC.md
+│   │   ├── _Patterns/
+│   │   └── [problem notes]
+│   ├── Mocks/
+│   │   └── _Mocks MOC.md
+│   ├── Revision/
+│   │   ├── Weak Topics.md
+│   │   └── Pacing Recovery Check.md
+│   └── Projects/
+│       ├── java-fundamentals.md
+│       ├── dsa-java.md
+│       ├── todo-api.md
+│       ├── lld-java.md
+│       ├── order-management-api.md
+│       │   └── ADRs/
+│       └── scalable-ecommerce-platform.md
+│           └── ADRs/
+├── Career/
+│   ├── _Career MOC.md
+│   ├── Companies/
+│   │   ├── _Companies MOC.md
+│   │   ├── [10 company dossier notes]
+│   │   └── 72-Hour Protocols/
+│   ├── Applications/
+│   ├── Interview Debriefs/
+│   ├── Behavioral/
+│   │   ├── _STAR Stories MOC.md
+│   │   ├── Amazon LP Mapping.md
+│   │   └── Stories/
+│   ├── Networking/
+│   │   ├── Message Templates.md
+│   │   ├── LinkedIn Profile Audit.md
+│   │   └── Contacts/
+│   ├── LinkedIn Content/
+│   │   ├── _Post Calendar MOC.md
+│   │   └── Posts/
+│   └── Negotiation/
+│       ├── Negotiation Scripts.md
+│       └── Offer Tracker.md
+├── Templates/
+│   ├── Daily Note Template.md
+│   ├── LeetCode Problem Template.md
+│   ├── Knowledge Concept Template.md
+│   ├── Mock Debrief Template.md
+│   ├── Interview Debrief Template.md
+│   ├── Company 72-Hour Protocol Template.md
+│   ├── STAR Story Template.md
+│   ├── Weekly Review Template.md
+│   └── ADR Template.md
+└── _Source-Archive/
+
 ### Naming Convention
 
 Title Case with spaces, zero-padded numeric prefixes where an ordering exists, `.md` extension. Index/navigation notes get a leading underscore so they sort to the top of their folder and read visually as "not a content note." Examples: `Day 001.md`, `0001 Two Sum.md`, `HashMap Internals.md`, `_Java MOC.md`, `ADR 001 Why Kafka Over HTTP.md`.
