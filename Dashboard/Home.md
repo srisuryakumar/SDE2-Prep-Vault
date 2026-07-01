@@ -48,4 +48,4 @@ SORT date_applied DESC
 ## Quick Links
 - **Dashboards:** [[Progress Overview]], [[Application Tracker]], [[Revision Due]]
 - **Hubs:** [[_Knowledge MOC]], [[_LeetCode MOC]], [[_Practice MOC]], [[_Career MOC]], [[_Templates MOC]]
-- **Current:** [[Day 001]], [[Week 01 Review]]
+- **Current:** [[Day 000]], [[Day 001]], [[Week 01 Review]]

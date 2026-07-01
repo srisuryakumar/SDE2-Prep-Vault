@@ -20,3 +20,10 @@ SORT day_number ASC
 - Books Pages Read: 
 - Sleep Average: 
 - Honest Week Rating: 
+
+
+---
+
+## Days This Week
+
+[[Day 001]] · [[Day 002]] · [[Day 003]] · [[Day 004]] · [[Day 005]] · [[Day 006]] · [[Day 007]]

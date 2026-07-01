@@ -14,4 +14,4 @@ tags: [moc, lld]
 ## Applied LLD Scenarios
 - [[Logger System]]
 - [[In-Process Pub-Sub Event Bus]]
-- [[Generic Cache System Design]]
+- [[Generic Cache System Design LLD]]
