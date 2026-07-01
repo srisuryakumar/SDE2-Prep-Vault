@@ -1,0 +1,183 @@
+=== Vault Health Check ===
+Total Notes: 1103
+Stubs: 170
+To-Study: 479
+
+Broken Links (35):
+  - Career/Companies/Swiggy.md -> [[72-Hour Protocols/Swiggy]]
+  - Career/Companies/Uber.md -> [[72-Hour Protocols/Uber]]
+  - Career/Companies/Meesho.md -> [[72-Hour Protocols/Meesho]]
+  - Career/Companies/Atlassian.md -> [[72-Hour Protocols/Atlassian]]
+  - Career/Companies/PhonePe.md -> [[72-Hour Protocols/PhonePe]]
+  - Career/Companies/Amazon.md -> [[72-Hour Protocols/Amazon]]
+  - Career/Companies/CRED.md -> [[72-Hour Protocols/CRED]]
+  - Career/Companies/Razorpay.md -> [[72-Hour Protocols/Razorpay]]
+  - Career/Companies/Rippling.md -> [[72-Hour Protocols/Rippling]]
+  - Career/Companies/Groww.md -> [[72-Hour Protocols/Groww]]
+  - Career/Companies/72-Hour Protocols/Swiggy.md -> [[Food delivery tracking]]
+  - Career/Companies/72-Hour Protocols/Swiggy.md -> [[02_Interview_Intelligence_and_Behavioral]]
+  - Career/Companies/72-Hour Protocols/Uber.md -> [[Location tracking, Surge pricing]]
+  - Career/Companies/72-Hour Protocols/Uber.md -> [[02_Interview_Intelligence_and_Behavioral]]
+  - Career/Companies/72-Hour Protocols/Meesho.md -> [[Product recommendation or flash sale]]
+  - Career/Companies/72-Hour Protocols/Meesho.md -> [[02_Interview_Intelligence_and_Behavioral]]
+  - Career/Companies/72-Hour Protocols/Atlassian.md -> [[Jira workflow engine]]
+  - Career/Companies/72-Hour Protocols/Atlassian.md -> [[02_Interview_Intelligence_and_Behavioral]]
+  - Career/Companies/72-Hour Protocols/PhonePe.md -> [[UPI payment system at 500M transactions/day]]
+  - Career/Companies/72-Hour Protocols/PhonePe.md -> [[02_Interview_Intelligence_and_Behavioral]]
+  - Career/Companies/72-Hour Protocols/Amazon.md -> [[Shopping Cart, Locker system]]
+  - Career/Companies/72-Hour Protocols/Amazon.md -> [[02_Interview_Intelligence_and_Behavioral]]
+  - Career/Companies/72-Hour Protocols/CRED.md -> [[Rewards allocation, Leaderboard]]
+  - Career/Companies/72-Hour Protocols/CRED.md -> [[02_Interview_Intelligence_and_Behavioral]]
+  - Career/Companies/72-Hour Protocols/Razorpay.md -> [[Payment Gateway with idempotency]]
+  - Career/Companies/72-Hour Protocols/Razorpay.md -> [[02_Interview_Intelligence_and_Behavioral]]
+  - Career/Companies/72-Hour Protocols/Rippling.md -> [[RBAC, workflow engine]]
+  - Career/Companies/72-Hour Protocols/Rippling.md -> [[02_Interview_Intelligence_and_Behavioral]]
+  - Career/Companies/72-Hour Protocols/Groww.md -> [[Stock trading engine, Portfolio tracker]]
+  - Career/Companies/72-Hour Protocols/Groww.md -> [[02_Interview_Intelligence_and_Behavioral]]
+  - Daily Journal/Day 078.md -> [[Composition over Inheritance]]
+  - Daily Journal/Day 095.md -> [[JIRA/SaaS Scale Architecture]]
+  - Daily Journal/Day 044.md -> [[Multi-leader Replication]]
+  - Practice/Projects/lld-java.md -> [[Food Delivery System (LLD)]]
+  - Practice/Projects/lld-java.md -> [[Vending Machine (LLD)]]
+
+Orphans (140):
+  - 0002 Add Two Numbers
+  - 0026 Remove Duplicates from Sorted Array
+  - 0105 Construct Binary Tree from Preorder and Inorder Traversal
+  - 0121 Best Time to Buy and Sell Stock
+  - 0217 Contains Duplicate
+  - 0242 Valid Anagram
+  - 0435 Non-overlapping Intervals
+  - 0642 Design Search Autocomplete System
+  - 0704 Binary Search
+  - 17 Technical Decision
+  - 18 Professional Growth
+  - 19 Bug Fix
+  - 20 Process Improvement
+  - Abstract Factory Pattern
+  - Adapter Pattern
+  - Beating the ATS
+  - Binary Search on the Answer
+  - Builder Pattern
+  - Chain of Responsibility Pattern
+  - Command Pattern
+  - Composite Pattern
+  - DRY, KISS, and YAGNI
+  - Date and String Functions
+  - Day 007
+  - Day 021
+  - Day 028
+  - Day 035
+  - Day 042
+  - Day 049
+  - Day 056
+  - Day 063
+  - Day 070
+  - Day 084
+  - Day 091
+  - Day 098
+  - Day 104
+  - Day 111
+  - Day 112
+  - Day 113
+  - Day 114
+  - Day 115
+  - Day 116
+  - Day 117
+  - Day 118
+  - Day 119
+  - Day 120
+  - Decorator Pattern
+  - Dependency Inversion Principle (DIP)
+  - EXISTS vs IN Performance
+  - Facade Pattern
+  - Factory Method Pattern
+  - Flyweight Pattern
+  - Interface Segregation Principle (ISP)
+  - Iterator Pattern
+  - LLD Interview Strategy
+  - LinkedIn Profile Audit
+  - Liskov Substitution Principle (LSP)
+  - Managing Imposter Syndrome
+  - Negotiation Scripts
+  - Observer Pattern
+  - Offer Tracker
+  - Offset vs Cursor Pagination
+  - Open-Closed Principle (OCP)
+  - Pacing Recovery Check
+  - Post 01 Journey Announcement
+  - Post 02 Java Integer Cache Trap
+  - Post 03 JVM Memory Model Diagram
+  - Post 04 Race Condition Proof
+  - Post 05 To-Do API Launch
+  - Post 06 DSA Pattern Visual
+  - Post 07 HashMap Internals
+  - Post 08 LeetCode Patterns Carousel
+  - Post 09 Order Management API Architecture
+  - Post 10 Transactional Deep Dive
+  - Post 11 Kafka Partitions
+  - Post 12 TestContainers vs H2
+  - Post 13 Rate Limiter Algorithm Comparison
+  - Post 14 Resilience4j Circuit Breaker
+  - Post 15 Month 2 Recap
+  - Post 16 Poll
+  - Post 17 WhatsApp Architecture Breakdown
+  - Post 18 LLD Parking Lot
+  - Post 19 Kubernetes Zero-Downtime Deployment
+  - Post 20 CICD Pipeline Walkthrough
+  - Post 21 AWS Lessons
+  - Post 22 JWT vs OAuth 2.0
+  - Post 23 Mock Interview Experience
+  - Post 24 BookMyShow Seat Booking Challenge
+  - Post 25 Actively Interviewing Announcement
+  - Post 26 Saga Pattern with Code
+  - Post 27 Fintech Engineering
+  - Post 28 E-Commerce Platform Launch
+  - Post 29 Interview Experience 1
+  - Post 30 Offer Negotiation Research
+  - Post 31 Offer Received
+  - Post 32 Open Source Contribution
+  - Post 33 Full Journey Story
+  - Post 34 Advice for Day 1
+  - Prototype Pattern
+  - Proxy Pattern
+  - README
+  - Recursive CTEs
+  - SDE-2 Market Reality
+  - SQL OA Quick Reference
+  - Single Responsibility Principle (SRP)
+  - Singleton Pattern
+  - Strategy Pattern
+  - System Design - Rate Limiter
+  - Tell Don't Ask
+  - Template Method Pattern
+  - Weak Topics
+  - Week 02 Review
+  - Week 03 Review
+  - Week 04 Review
+  - Week 05 Review
+  - Week 06 Review
+  - Week 07 Review
+  - Week 08 Review
+  - Week 09 Review
+  - Week 10 Review
+  - Week 11 Review
+  - Week 12 Review
+  - Week 13 Review
+  - Week 14 Review
+  - Week 15 Review
+  - Week 16 Review
+  - Week 17 Review
+  - Window Functions
+  - [[Binary Search]]
+  - [[Greedy]]
+  - [[HashMap and Frequency Counting]]
+  - [[Tree DFS]]
+  - [[Trie]]
+  - [[Two Pointers]]
+  - _Companies MOC
+  - _Example Contact
+  - _External Resources
+  - _Migration Verification Report
+  - _Mocks MOC
+  - _Post Calendar MOC

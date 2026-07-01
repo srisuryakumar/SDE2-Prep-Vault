@@ -194,3 +194,25 @@ Vault root: /Users/srisuryakumarm/Documents/SDE 2/SDE2-Prep-Vault
 | Daily Journal (Days) | 121 |
 | Daily Journal/Weekly Reviews | 17 |
 | Templates | 10 |
+
+---
+
+## Remediation Summary
+Applied: 2026-07-01
+
+| Phase | Action | Result |
+|-------|--------|--------|
+| R1 | Knowledge folder consolidation | 5 folders moved into canonical locations, 5 empty folders deleted |
+| R2 | MOC renaming and repair | 2 MOC files renamed, 2 new MOC files created (Redis, LLD) |
+| R3 | Broken link repair | links before: 321, links after: 35 |
+| R3 | Orphan resolution | orphans before: 169, orphans after: 140 (majority are expected Cat C/D) |
+| R4 | Career hub fixes | STAR MOC created, 10 protocols fully populated with dossier data |
+| R5 | LLD note relocation | 3 LLD notes moved to Knowledge/LLD/ and linked |
+| R6 | Vault Conventions fix | Full Folder Tree section added successfully |
+| R7 | Archive completeness | 20 missing files moved to _Source-Archive/ root |
+| R8 | Cross-subject wikilinks | 6 links added across 6 targeted notes |
+
+**Post-remediation migration status:** COMPLETE
+
+Remaining broken links: 35
+Remaining orphans: 140
