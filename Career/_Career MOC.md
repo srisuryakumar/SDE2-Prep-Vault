@@ -1,5 +1,9 @@
 # Career Hub Dashboard
 
+## Behavioral and Leadership
+- [[_STAR Stories MOC|STAR Stories]]
+- [[Amazon LP Mapping]]
+
 ### Target Companies
 ```dataview
 TABLE tier as Tier, base_salary_range as "Base Salary Range"

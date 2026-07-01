@@ -1,28 +1,71 @@
 ---
-type: 72-hour-protocol
+type: company-protocol
 company: Rippling
+tags: [protocol, rippling]
 ---
-# Rippling 72-Hour Activation Protocol
 
-## 1. Lock LeetCode to Rippling Tag
-Target these 5 specific high-frequency patterns:
-- [[0200 Number of Islands]] (DFS)
-- [[0146 LRU Cache]] (Design)
-- [[0207 Course Schedule]] (Graph)
-- [[0211 Design Add and Search Words Data Structure]] (Trie)
-- [[0056 Merge Intervals]] (Sorting)
+# Rippling — 72-Hour Interview Activation Protocol
 
-## 2. Review Behavioral Values & STAR Stories
-Rippling values "Push the limits" and "Hard work".
-- **Push the limits**: Story about learning a completely new tech stack rapidly to solve a problem.
-- **Hard work**: Story about putting in extra effort to resolve a critical production outage.
+**Round types expected:** 1 DSA, 1 API/LLD, 1 System Design, 1 HM
 
-## 3. Refresh System Design
-- **Top Topics**: Workflow engine, Audit logging system, RBAC system.
-- **Review**: API design best practices, extensible object-oriented models.
+---
 
-## 4. Intel Gathering
-- Review the extensive LLD/API Design expectations for Rippling.
+## Hour 0-4: Intelligence Refresh
 
-## 5. Emergency Mock
-- Schedule a heavy LLD mock focusing on clean data modeling and business logic over algorithms.
+- [ ] Re-read [[Rippling]] dossier — focus specifically on: HRIS, complex data models
+- [ ] Search LeetCode Discuss: "Rippling SDE2 2026" — note any new reported patterns
+- [ ] Search r/developersIndia: "Rippling interview experience" — posts from last 3 months only
+- [ ] Check Blind: "Rippling interview" — filter by most recent
+- [ ] Log any new findings in the [[Application Tracker]] note
+
+---
+
+## Hours 4-24: DSA Sprint
+
+Solve these problems, drawn from this company's known patterns:
+
+1. [[0072 Edit Distance]] — Design — target 20 min
+2. [[0062 Unique Paths]] — HashMap — target 20 min
+3. [[0206 Reverse Linked List]] — HashMap — target 25 min
+4. [[0019 Remove Nth Node From End of List]] — HashMap — target 25 min
+5. [[0297 Serialize and Deserialize Binary Tree]] — HashMap — target 30 min
+
+Time cap per Medium: 25 minutes before reading hints.
+
+---
+
+## Hours 24-48: Domain and Behavioral Sprint
+
+**Domain knowledge to review:**
+- HRIS, complex data models
+
+**Engineering blog reading:**
+- Search for "Rippling engineering blog" — read the most recent technical post
+
+**Behavioral preparation:**
+- Company values: Push the limits, Hard work
+- STAR stories to rehearse: [[Project Deep Dive Rehearsal]]
+- "Why Rippling?" — write a 3-sentence answer referencing: one specific engineering challenge they face, one technology choice they've made, one career alignment reason
+
+---
+
+## Hours 48-72: Simulation Sprint
+
+- [ ] 1 timed DSA mock — 45 min, 2 Mediums from this company's LeetCode tag
+- [ ] Re-solve [[Logger System LLD]] in 45 min without looking at your implementation
+- [ ] Verbally walk through [[RBAC, workflow engine]] using the 5-step framework — time at 45 min exactly
+- [ ] Salary anchor confirmed: Levels.fyi "Rippling SDE-2 India 2026" — write minimum and opening ask below
+
+Minimum I will accept: ₹55L
+Opening ask: ₹65L
+
+---
+
+## Hour 72: Final 30-Minute Checklist
+
+- [ ] Interview link / address / room confirmed
+- [ ] Water and notepad ready for system design
+- [ ] IntelliJ open with a blank Java file — test it compiles `Hello World`
+- [ ] VS Code with Java Extension Pack as backup — test it
+- [ ] Read through the SDE-2 Differentiator table in [[02_Interview_Intelligence_and_Behavioral]] or its vault equivalent
+- [ ] Review top 3 STAR stories one final time — say "I" not "we"
