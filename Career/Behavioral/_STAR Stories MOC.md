@@ -25,3 +25,10 @@ FROM "Career/Behavioral/Stories"
 WHERE type = "star-story" AND (rehearsal_count = 0 OR last_rehearsed < date(today) - dur(7 days))
 SORT last_rehearsed ASC
 ```
+
+
+## Explicit Links
+- [[17 Technical Decision]]
+- [[18 Professional Growth]]
+- [[19 Bug Fix]]
+- [[20 Process Improvement]]

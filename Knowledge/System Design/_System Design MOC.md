@@ -102,3 +102,7 @@ Welcome to the System Design Map of Content. This MOC ties together concepts rel
 - [[Uber (HLD)]]
 
 - [[WhatsApp (HLD)]]
+
+
+## Explicit Links
+- [[System Design - Rate Limiter]]

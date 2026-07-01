@@ -36,3 +36,14 @@ FROM "Practice/LeetCode"
 WHERE type = "leetcode-problem"
 SORT leetcode_id ASC
 ```
+
+
+## Explicit Links
+- [[0002 Add Two Numbers]]
+- [[0026 Remove Duplicates from Sorted Array]]
+- [[0105 Construct Binary Tree from Preorder and Inorder Traversal]]
+- [[0217 Contains Duplicate]]
+- [[0242 Valid Anagram]]
+- [[0435 Non-overlapping Intervals]]
+- [[0642 Design Search Autocomplete System]]
+- [[0704 Binary Search]]

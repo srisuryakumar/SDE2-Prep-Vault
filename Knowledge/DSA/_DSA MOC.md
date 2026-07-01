@@ -119,3 +119,12 @@ This is the Map of Content (MOC) for Data Structures and Algorithms. It serves a
 ## 13. Interview Strategy
 - [[Interview Strategy (5 Steps)]]
 - [[The 15 Core Patterns List]]
+
+
+## Explicit Links
+- [[Binary Search]]
+- [[Greedy]]
+- [[HashMap and Frequency Counting]]
+- [[Tree DFS]]
+- [[Trie]]
+- [[Two Pointers]]

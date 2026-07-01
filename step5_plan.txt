@@ -1,0 +1,82 @@
+link Practice/LeetCode/0002 Add Two Numbers.md to Practice/LeetCode/_LeetCode MOC.md
+link Practice/LeetCode/0026 Remove Duplicates from Sorted Array.md to Practice/LeetCode/_LeetCode MOC.md
+link Practice/LeetCode/0105 Construct Binary Tree from Preorder and Inorder Traversal.md to Practice/LeetCode/_LeetCode MOC.md
+UNMATCHED: Practice/LeetCode/0121 Best Time to Buy and Sell Stock.md | type: problem | subject: None
+link Practice/LeetCode/0217 Contains Duplicate.md to Practice/LeetCode/_LeetCode MOC.md
+link Practice/LeetCode/0242 Valid Anagram.md to Practice/LeetCode/_LeetCode MOC.md
+link Practice/LeetCode/0435 Non-overlapping Intervals.md to Practice/LeetCode/_LeetCode MOC.md
+link Practice/LeetCode/0642 Design Search Autocomplete System.md to Practice/LeetCode/_LeetCode MOC.md
+link Practice/LeetCode/0704 Binary Search.md to Practice/LeetCode/_LeetCode MOC.md
+link Career/Behavioral/Stories/17 Technical Decision.md to Career/Behavioral/_STAR Stories MOC.md
+link Career/Behavioral/Stories/18 Professional Growth.md to Career/Behavioral/_STAR Stories MOC.md
+link Career/Behavioral/Stories/19 Bug Fix.md to Career/Behavioral/_STAR Stories MOC.md
+link Career/Behavioral/Stories/20 Process Improvement.md to Career/Behavioral/_STAR Stories MOC.md
+UNMATCHED: Knowledge/LLD/Abstract Factory Pattern.md | type: concept | subject: Low Level Design
+UNMATCHED: Knowledge/LLD/Adapter Pattern.md | type: concept | subject: Low Level Design
+UNMATCHED: Career/Networking/Beating the ATS.md | type: None | subject: None
+UNMATCHED: Knowledge/DSA/Binary Search on the Answer.md | type: concept | subject: Data Structures and Algorithms
+UNMATCHED: Knowledge/LLD/Builder Pattern.md | type: concept | subject: Low Level Design
+UNMATCHED: Knowledge/LLD/Chain of Responsibility Pattern.md | type: concept | subject: Low Level Design
+UNMATCHED: Knowledge/LLD/Command Pattern.md | type: concept | subject: Low Level Design
+UNMATCHED: Knowledge/LLD/Composite Pattern.md | type: concept | subject: Low Level Design
+UNMATCHED: Knowledge/LLD/DRY, KISS, and YAGNI.md | type: concept | subject: Low Level Design
+UNMATCHED: Knowledge/Databases/Date and String Functions.md | type: concept | subject: None
+UNMATCHED: Knowledge/LLD/Decorator Pattern.md | type: concept | subject: Low Level Design
+UNMATCHED: Knowledge/LLD/Dependency Inversion Principle (DIP).md | type: concept | subject: Low Level Design
+UNMATCHED: Knowledge/Databases/EXISTS vs IN Performance.md | type: concept | subject: None
+UNMATCHED: Knowledge/LLD/Facade Pattern.md | type: concept | subject: Low Level Design
+UNMATCHED: Knowledge/LLD/Factory Method Pattern.md | type: concept | subject: Low Level Design
+UNMATCHED: Knowledge/LLD/Flyweight Pattern.md | type: concept | subject: Low Level Design
+UNMATCHED: Knowledge/LLD/Interface Segregation Principle (ISP).md | type: concept | subject: Low Level Design
+UNMATCHED: Knowledge/LLD/Iterator Pattern.md | type: concept | subject: Low Level Design
+UNMATCHED: Knowledge/LLD/LLD Interview Strategy.md | type: concept | subject: Low Level Design
+UNMATCHED: Career/Networking/LinkedIn Profile Audit.md | type: None | subject: None
+UNMATCHED: Knowledge/LLD/Liskov Substitution Principle (LSP).md | type: concept | subject: Low Level Design
+UNMATCHED: Career/Managing Imposter Syndrome.md | type: None | subject: None
+UNMATCHED: Career/Negotiation/Negotiation Scripts.md | type: None | subject: None
+UNMATCHED: Knowledge/LLD/Observer Pattern.md | type: concept | subject: Low Level Design
+UNMATCHED: Career/Negotiation/Offer Tracker.md | type: offer-tracker | subject: None
+UNMATCHED: Knowledge/Spring Boot/Offset vs Cursor Pagination.md | type: concept | subject: Spring Boot and Backend Engineering
+UNMATCHED: Knowledge/LLD/Open-Closed Principle (OCP).md | type: concept | subject: Low Level Design
+UNMATCHED: Practice/Revision/Pacing Recovery Check.md | type: revision-note | subject: None
+UNMATCHED: Knowledge/LLD/Prototype Pattern.md | type: concept | subject: Low Level Design
+UNMATCHED: Knowledge/LLD/Proxy Pattern.md | type: concept | subject: Low Level Design
+UNMATCHED: README.md | type: None | subject: None
+UNMATCHED: Knowledge/Databases/Recursive CTEs.md | type: concept | subject: None
+UNMATCHED: Career/SDE-2 Market Reality.md | type: None | subject: None
+UNMATCHED: Knowledge/Databases/SQL OA Quick Reference.md | type: concept | subject: None
+UNMATCHED: Knowledge/LLD/Single Responsibility Principle (SRP).md | type: concept | subject: Low Level Design
+UNMATCHED: Knowledge/LLD/Singleton Pattern.md | type: concept | subject: Low Level Design
+UNMATCHED: Knowledge/LLD/Strategy Pattern.md | type: concept | subject: Low Level Design
+link Knowledge/System Design/System Design - Rate Limiter.md to Knowledge/System Design/_System Design MOC.md
+UNMATCHED: Knowledge/LLD/Tell Don't Ask.md | type: concept | subject: Low Level Design
+UNMATCHED: Knowledge/LLD/Template Method Pattern.md | type: concept | subject: Low Level Design
+UNMATCHED: Practice/Revision/Weak Topics.md | type: None | subject: None
+UNMATCHED: Daily Journal/Weekly Reviews/Week 02 Review.md | type: None | subject: None
+UNMATCHED: Daily Journal/Weekly Reviews/Week 03 Review.md | type: None | subject: None
+UNMATCHED: Daily Journal/Weekly Reviews/Week 04 Review.md | type: None | subject: None
+UNMATCHED: Daily Journal/Weekly Reviews/Week 05 Review.md | type: None | subject: None
+UNMATCHED: Daily Journal/Weekly Reviews/Week 06 Review.md | type: None | subject: None
+UNMATCHED: Daily Journal/Weekly Reviews/Week 07 Review.md | type: None | subject: None
+UNMATCHED: Daily Journal/Weekly Reviews/Week 08 Review.md | type: None | subject: None
+UNMATCHED: Daily Journal/Weekly Reviews/Week 09 Review.md | type: None | subject: None
+UNMATCHED: Daily Journal/Weekly Reviews/Week 10 Review.md | type: None | subject: None
+UNMATCHED: Daily Journal/Weekly Reviews/Week 11 Review.md | type: None | subject: None
+UNMATCHED: Daily Journal/Weekly Reviews/Week 12 Review.md | type: None | subject: None
+UNMATCHED: Daily Journal/Weekly Reviews/Week 13 Review.md | type: None | subject: None
+UNMATCHED: Daily Journal/Weekly Reviews/Week 14 Review.md | type: None | subject: None
+UNMATCHED: Daily Journal/Weekly Reviews/Week 15 Review.md | type: None | subject: None
+UNMATCHED: Daily Journal/Weekly Reviews/Week 16 Review.md | type: None | subject: None
+UNMATCHED: Daily Journal/Weekly Reviews/Week 17 Review.md | type: None | subject: None
+UNMATCHED: Knowledge/Databases/Window Functions.md | type: concept | subject: None
+link Knowledge/DSA/[[Binary Search]].md to Knowledge/DSA/_DSA MOC.md
+link Knowledge/DSA/[[Greedy]].md to Knowledge/DSA/_DSA MOC.md
+link Knowledge/DSA/[[HashMap and Frequency Counting]].md to Knowledge/DSA/_DSA MOC.md
+link Knowledge/DSA/[[Tree DFS]].md to Knowledge/DSA/_DSA MOC.md
+link Knowledge/DSA/[[Trie]].md to Knowledge/DSA/_DSA MOC.md
+link Knowledge/DSA/[[Two Pointers]].md to Knowledge/DSA/_DSA MOC.md
+UNMATCHED: Career/Companies/_Companies MOC.md | type: companies-moc | subject: None
+UNMATCHED: Career/Networking/Contacts/_Example Contact.md | type: contact | subject: None
+UNMATCHED: Knowledge/_External Resources.md | type: None | subject: None
+UNMATCHED: Practice/Mocks/_Mocks MOC.md | type: index | subject: None
+UNMATCHED: Career/LinkedIn Content/_Post Calendar MOC.md | type: None | subject: None
