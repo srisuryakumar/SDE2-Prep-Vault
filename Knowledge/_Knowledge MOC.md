@@ -19,3 +19,7 @@ This is the top-level entry point into the atomic concept notes of the vault.
 - [[_Kubernetes MOC|Docker, Kubernetes and Cloud Infrastructure]]
 - [[_LLD MOC|Low Level Design]]
 - [[_Career Strategy MOC|Interview Mastery and Career Strategy]]
+
+
+## Newly Added Explicit Links
+- [[_External Resources]]

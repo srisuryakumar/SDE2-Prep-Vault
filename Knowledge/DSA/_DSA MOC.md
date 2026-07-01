@@ -128,3 +128,7 @@ This is the Map of Content (MOC) for Data Structures and Algorithms. It serves a
 - [[Tree DFS]]
 - [[Trie]]
 - [[Two Pointers]]
+
+
+## Newly Added Explicit Links
+- [[Binary Search on the Answer]]

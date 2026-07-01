@@ -35,3 +35,15 @@ FROM "Career/Negotiation/Offers"
 WHERE type = "offer-tracker"
 SORT deadline ASC
 ```
+
+
+## Newly Added Explicit Links
+- [[Beating the ATS]]
+- [[LinkedIn Profile Audit]]
+- [[Managing Imposter Syndrome]]
+- [[Negotiation Scripts]]
+- [[Offer Tracker]]
+- [[SDE-2 Market Reality]]
+- [[_Companies MOC]]
+- [[_Example Contact]]
+- [[_Post Calendar MOC]]

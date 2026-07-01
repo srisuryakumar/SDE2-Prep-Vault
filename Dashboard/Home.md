@@ -49,3 +49,23 @@ SORT date_applied DESC
 - **Dashboards:** [[Progress Overview]], [[Application Tracker]], [[Revision Due]]
 - **Hubs:** [[_Knowledge MOC]], [[_LeetCode MOC]], [[_Practice MOC]], [[_Career MOC]], [[_Templates MOC]]
 - **Current:** [[Day 000]], [[Day 001]], [[Week 01 Review]]
+
+
+## Newly Added Explicit Links
+- [[README]]
+- [[Week 02 Review]]
+- [[Week 03 Review]]
+- [[Week 04 Review]]
+- [[Week 05 Review]]
+- [[Week 06 Review]]
+- [[Week 07 Review]]
+- [[Week 08 Review]]
+- [[Week 09 Review]]
+- [[Week 10 Review]]
+- [[Week 11 Review]]
+- [[Week 12 Review]]
+- [[Week 13 Review]]
+- [[Week 14 Review]]
+- [[Week 15 Review]]
+- [[Week 16 Review]]
+- [[Week 17 Review]]

@@ -45,3 +45,11 @@ This is the Map of Content (MOC) for Databases and Caching. It serves as an inde
 - [[MongoDB (Document Store)]]
 - [[Cassandra (Wide-Column Store)]]
 - [[CAP Theorem]]
+
+
+## Newly Added Explicit Links
+- [[Date and String Functions]]
+- [[EXISTS vs IN Performance]]
+- [[Recursive CTEs]]
+- [[SQL OA Quick Reference]]
+- [[Window Functions]]

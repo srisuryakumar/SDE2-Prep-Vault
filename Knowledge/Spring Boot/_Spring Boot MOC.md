@@ -101,3 +101,7 @@ subject: Spring Boot and Backend Engineering
 - [[Multi-Stage Docker Builds (Spring Boot)]]
 - [[JVM Memory Limits in Containers]]
 - [[The Value of a Live Swagger UI]]
+
+
+## Newly Added Explicit Links
+- [[Offset vs Cursor Pagination]]

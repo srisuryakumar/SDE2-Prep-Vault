@@ -1,0 +1,70 @@
+Remaining unexpected orphans: 69
+Practice/LeetCode/0121 Best Time to Buy and Sell Stock.md | type: problem | subject: None
+Knowledge/LLD/Abstract Factory Pattern.md | type: concept | subject: Low Level Design
+Knowledge/LLD/Adapter Pattern.md | type: concept | subject: Low Level Design
+Career/Networking/Beating the ATS.md | type: None | subject: None
+Knowledge/DSA/Binary Search on the Answer.md | type: concept | subject: Data Structures and Algorithms
+Knowledge/LLD/Builder Pattern.md | type: concept | subject: Low Level Design
+Knowledge/LLD/Chain of Responsibility Pattern.md | type: concept | subject: Low Level Design
+Knowledge/LLD/Command Pattern.md | type: concept | subject: Low Level Design
+Knowledge/LLD/Composite Pattern.md | type: concept | subject: Low Level Design
+Knowledge/LLD/DRY, KISS, and YAGNI.md | type: concept | subject: Low Level Design
+Knowledge/Databases/Date and String Functions.md | type: concept | subject: None
+Knowledge/LLD/Decorator Pattern.md | type: concept | subject: Low Level Design
+Knowledge/LLD/Dependency Inversion Principle (DIP).md | type: concept | subject: Low Level Design
+Knowledge/Databases/EXISTS vs IN Performance.md | type: concept | subject: None
+Knowledge/LLD/Facade Pattern.md | type: concept | subject: Low Level Design
+Knowledge/LLD/Factory Method Pattern.md | type: concept | subject: Low Level Design
+Knowledge/LLD/Flyweight Pattern.md | type: concept | subject: Low Level Design
+Knowledge/LLD/Interface Segregation Principle (ISP).md | type: concept | subject: Low Level Design
+Knowledge/LLD/Iterator Pattern.md | type: concept | subject: Low Level Design
+Knowledge/LLD/LLD Interview Strategy.md | type: concept | subject: Low Level Design
+Career/Networking/LinkedIn Profile Audit.md | type: None | subject: None
+Knowledge/LLD/Liskov Substitution Principle (LSP).md | type: concept | subject: Low Level Design
+Career/Managing Imposter Syndrome.md | type: None | subject: None
+Career/Negotiation/Negotiation Scripts.md | type: None | subject: None
+Knowledge/LLD/Observer Pattern.md | type: concept | subject: Low Level Design
+Career/Negotiation/Offer Tracker.md | type: offer-tracker | subject: None
+Knowledge/Spring Boot/Offset vs Cursor Pagination.md | type: concept | subject: Spring Boot and Backend Engineering
+Knowledge/LLD/Open-Closed Principle (OCP).md | type: concept | subject: Low Level Design
+Practice/Revision/Pacing Recovery Check.md | type: revision-note | subject: None
+Knowledge/LLD/Prototype Pattern.md | type: concept | subject: Low Level Design
+Knowledge/LLD/Proxy Pattern.md | type: concept | subject: Low Level Design
+README.md | type: None | subject: None
+Knowledge/Databases/Recursive CTEs.md | type: concept | subject: None
+Career/SDE-2 Market Reality.md | type: None | subject: None
+Knowledge/Databases/SQL OA Quick Reference.md | type: concept | subject: None
+Knowledge/LLD/Single Responsibility Principle (SRP).md | type: concept | subject: Low Level Design
+Knowledge/LLD/Singleton Pattern.md | type: concept | subject: Low Level Design
+Knowledge/LLD/Strategy Pattern.md | type: concept | subject: Low Level Design
+Knowledge/LLD/Tell Don't Ask.md | type: concept | subject: Low Level Design
+Knowledge/LLD/Template Method Pattern.md | type: concept | subject: Low Level Design
+Practice/Revision/Weak Topics.md | type: None | subject: None
+Daily Journal/Weekly Reviews/Week 02 Review.md | type: None | subject: None
+Daily Journal/Weekly Reviews/Week 03 Review.md | type: None | subject: None
+Daily Journal/Weekly Reviews/Week 04 Review.md | type: None | subject: None
+Daily Journal/Weekly Reviews/Week 05 Review.md | type: None | subject: None
+Daily Journal/Weekly Reviews/Week 06 Review.md | type: None | subject: None
+Daily Journal/Weekly Reviews/Week 07 Review.md | type: None | subject: None
+Daily Journal/Weekly Reviews/Week 08 Review.md | type: None | subject: None
+Daily Journal/Weekly Reviews/Week 09 Review.md | type: None | subject: None
+Daily Journal/Weekly Reviews/Week 10 Review.md | type: None | subject: None
+Daily Journal/Weekly Reviews/Week 11 Review.md | type: None | subject: None
+Daily Journal/Weekly Reviews/Week 12 Review.md | type: None | subject: None
+Daily Journal/Weekly Reviews/Week 13 Review.md | type: None | subject: None
+Daily Journal/Weekly Reviews/Week 14 Review.md | type: None | subject: None
+Daily Journal/Weekly Reviews/Week 15 Review.md | type: None | subject: None
+Daily Journal/Weekly Reviews/Week 16 Review.md | type: None | subject: None
+Daily Journal/Weekly Reviews/Week 17 Review.md | type: None | subject: None
+Knowledge/Databases/Window Functions.md | type: concept | subject: None
+Knowledge/DSA/[[Binary Search]].md | type: concept | subject: DSA
+Knowledge/DSA/[[Greedy]].md | type: concept | subject: DSA
+Knowledge/DSA/[[HashMap and Frequency Counting]].md | type: concept | subject: DSA
+Knowledge/DSA/[[Tree DFS]].md | type: concept | subject: DSA
+Knowledge/DSA/[[Trie]].md | type: concept | subject: DSA
+Knowledge/DSA/[[Two Pointers]].md | type: concept | subject: DSA
+Career/Companies/_Companies MOC.md | type: companies-moc | subject: None
+Career/Networking/Contacts/_Example Contact.md | type: contact | subject: None
+Knowledge/_External Resources.md | type: None | subject: None
+Practice/Mocks/_Mocks MOC.md | type: index | subject: None
+Career/LinkedIn Content/_Post Calendar MOC.md | type: None | subject: None

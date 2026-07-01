@@ -47,3 +47,7 @@ SORT leetcode_id ASC
 - [[0435 Non-overlapping Intervals]]
 - [[0642 Design Search Autocomplete System]]
 - [[0704 Binary Search]]
+
+
+## Newly Added Explicit Links
+- [[0121 Best Time to Buy and Sell Stock]]
